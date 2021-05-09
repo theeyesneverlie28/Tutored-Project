@@ -22,24 +22,24 @@ Python 3.*
 You will gain:
 
 * Knowledge concerning statistical indicators to explore spatial data in Python.
-** Variogram
-** Autocorrelation
-** Compute the slope from DTM map
-** Intercorrelation (PCC coefficient)
-** AGB Predicted model 
-** MSE analysis on azimutal direction
+<p>&nbsp; &nbsp;      1. Variogram</p>
+<p>&nbsp; &nbsp;      2. Autocorrelation</p>
+<p>&nbsp; &nbsp;      3. Compute the slope from DTM map</p>
+<p>&nbsp; &nbsp;      4. Intercorrelation (PCC coefficient)</p>
+<p>&nbsp; &nbsp;      5. AGB Predicted model </p>
+<p>&nbsp; &nbsp;      6. MSE analysis on azimutal direction</p>
+
 
 * Experience with a data about DTM,AGB,FH in Python.
-** Open tiff file
-** Use matplotlib to display spatial maps
-
+<p>&nbsp; &nbsp;      1. Open tiff file</p>
+<p>&nbsp; &nbsp;      2. Use matplotlib to display spatial maps</p>
 # Getting Started
 Here's the steps to get setup locally with Anaconda for Python 3.*, common Python packages, Jupyter Notebooks:
 * Install Anaconda 3.
 * From Anaconda Navigator (within Anaconda3 group), go to the environment tab, click on base (root) green arrow and open a terminal.
 * In the terminal type: 
-<p>&nbsp; &nbsp; 1. pip install GDAL.</p>
-<p>&nbsp; &nbsp; 2. pip install sklearn.</p>
-<p>&nbsp; &nbsp; 3. pip install numpy.</p>
-<p>&nbsp; &nbsp; 4. pip install skgstat.</p>
+<p>&nbsp; &nbsp;      1. pip install GDAL.</p>
+<p>&nbsp; &nbsp;      2. pip install sklearn.</p>
+<p>&nbsp; &nbsp;      3. pip install numpy.</p>
+<p>&nbsp; &nbsp;      4. pip install skgstat.</p>
 
