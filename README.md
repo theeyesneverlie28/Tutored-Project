@@ -38,7 +38,8 @@ Here's the steps to get setup locally with Anaconda for Python 3.*, common Pytho
 * Install Anaconda 3.
 * From Anaconda Navigator (within Anaconda3 group), go to the environment tab, click on base (root) green arrow and open a terminal.
 * In the terminal type: 
-** pip install GDAL.
-** pip install sklearn
-** pip install numpy
-** pip install skgstat
+<p>&nbsp; &nbsp; 1. pip install GDAL.</p>
+<p>&nbsp; &nbsp; 2. pip install sklearn.</p>
+<p>&nbsp; &nbsp; 3. pip install numpy.</p>
+<p>&nbsp; &nbsp; 4. pip install skgstat.</p>
+
