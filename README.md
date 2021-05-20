@@ -10,7 +10,7 @@ hvnguyen@etud.insa-toulouse.fr
 
 vhoang@etud.insa-toulouse.fr
 
-This work was under the instruction of Prof L. Villard
+This work was under the supervision of L. Villard, research scientist at CESBIO.
 
 
 # Before opening notebook file. Please Install the Following:
